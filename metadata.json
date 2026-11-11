@@ -1,0 +1,6 @@
+{
+  "name": "Obby Kuiz: Pustaka Mini Keluarga (MediaPipe 3D)",
+  "description": "Game 3D gaya Roblox (Obby Adventure) dengan kawalan penjejakan kamera MediaPipe (Tangan & Kepala) serta papan kekunci berdasarkan petikan Bahasa Melayu Pustaka Mini Keluarga dan Kamus Pelajar Dewan.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
